@@ -1,5 +1,5 @@
 ## Proyecto evaluable para la materia FrontEnd III, certified tech developer, digital house. <br>
-Link: https://sofiviola.github.io/Entrega_FE3_Digital_House/
+Link: https://codesandbox.io/s/funny-frog-7zvm7?file=/src/index.js
 
 ### Consigna
 
